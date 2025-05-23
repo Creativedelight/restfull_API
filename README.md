@@ -1,0 +1,1 @@
+in this project i created a restfull api which i tested using both postman and server where i received data in json format. I used various http methods such as GET, POST, PUT and DELETE.
